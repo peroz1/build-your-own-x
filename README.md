@@ -2,6 +2,25 @@
 
 # ![Build your own X](feynman.png)
 
+#### Table of Contents
+- [3D Renderer](https://github.com/danistefanovic/build-your-own-x#build-your-own-3d-renderer)
+- [Blockchain / Cryptocurrency](https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency)
+- [Bot](https://github.com/danistefanovic/build-your-own-x#build-your-own-bot)
+- [Database](https://github.com/danistefanovic/build-your-own-x#build-your-own-database)
+- [Front-end Framework / Library](https://github.com/danistefanovic/build-your-own-x#build-your-own-front-end-framework--library)
+- [Docker](https://github.com/danistefanovic/build-your-own-x#build-your-own-docker)
+- [Game](https://github.com/danistefanovic/build-your-own-x#build-your-own-game)
+- [Git](https://github.com/danistefanovic/build-your-own-x#build-your-own-git)
+- [Neural Network](https://github.com/danistefanovic/build-your-own-x#build-your-own-neural-network)
+- [Network Stack](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
+- [Operating System](https://github.com/danistefanovic/build-your-own-x#build-your-own-operating-system)
+- [Programming Language](https://github.com/danistefanovic/build-your-own-x#build-your-own-programming-language)
+- [Regex Engine](https://github.com/danistefanovic/build-your-own-x#build-your-own-regex-engine)
+- [Shell](https://github.com/danistefanovic/build-your-own-x#build-your-own-shell)
+- [Template Engine](https://github.com/danistefanovic/build-your-own-x#build-your-own-template-engine)
+- [Web Server](https://github.com/danistefanovic/build-your-own-x#build-your-own-web-server)
+- [Uncategorized](https://github.com/danistefanovic/build-your-own-x#uncategorized)
+
 #### Build your own `3D Renderer`
 
 * [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
